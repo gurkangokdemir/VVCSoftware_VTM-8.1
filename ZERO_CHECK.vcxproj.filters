@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\OpenVVC\VVCSoftware_VTM-8.1\CMakeFiles\f3fe92a1ccb92e844a896a1195aa4c7a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{346250B5-A8A5-383F-BB17-E1F61629E33A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

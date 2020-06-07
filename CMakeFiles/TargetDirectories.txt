@@ -1,0 +1,15 @@
+C:/OpenVVC/VVCSoftware_VTM-8.1/CMakeFiles/ALL_BUILD.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/CMakeFiles/ZERO_CHECK.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/CommonLib/CMakeFiles/CommonLib.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/CommonAnalyserLib/CMakeFiles/CommonAnalyserLib.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/DecoderAnalyserLib/CMakeFiles/DecoderAnalyserLib.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/DecoderLib/CMakeFiles/DecoderLib.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/EncoderLib/CMakeFiles/EncoderLib.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/Lib/Utilities/CMakeFiles/Utilities.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/DecoderAnalyserApp/CMakeFiles/DecoderAnalyserApp.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/DecoderApp/CMakeFiles/DecoderApp.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/EncoderApp/CMakeFiles/EncoderApp.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/SEIRemovalApp/CMakeFiles/SEIRemovalApp.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/Parcat/CMakeFiles/parcat.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/StreamMergeApp/CMakeFiles/StreamMergeApp.dir
+C:/OpenVVC/VVCSoftware_VTM-8.1/source/App/BitstreamExtractorApp/CMakeFiles/BitstreamExtractorApp.dir
